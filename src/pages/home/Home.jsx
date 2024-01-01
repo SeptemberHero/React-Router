@@ -1,4 +1,3 @@
-// import homeackground from '../../#Vanlife/image 54.png'
 import './Home.scss'
 import {Link} from 'react-router-dom'
 const Home = () => {

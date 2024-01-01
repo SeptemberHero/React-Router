@@ -5,6 +5,8 @@ import Vans from './pages/vans/Vans';
 import VanDetail from './pages/vanDetail/VanDetail';
 import About from './pages/about/About';
 
+import "./server"
+
 const App = () => {
   return (
     <>
